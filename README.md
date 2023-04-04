@@ -2,7 +2,7 @@
 <h3 align="center">A passionate android developer from Iran</h3>
 
 - 👁 <img src="https://komarev.com/ghpvc/?username=majidarabi&label=Profile%20views&color=0e75b6&style=flat" alt="MajidArabi" />
-- 🔭 I’m currently working on [Instami (Android Native)](https://cafebazaar.ir/developer/848736711339)
+- 🔭 I’m currently working on [Okala (Android Native)](https://cafebazaar.ir/app/com.okala?l=en)
 - 🌱 I’m currently learning Design Patterns, Jetpack Compose
 - 📫 How to reach me **majidarabi73@gmail.com**
 
